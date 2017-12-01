@@ -1,0 +1,4 @@
+services:
+#    patikang_app.example:
+#        class: Patikang\AppBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

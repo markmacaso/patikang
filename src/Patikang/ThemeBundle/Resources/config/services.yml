@@ -1,0 +1,4 @@
+services:
+#    patikang_theme.example:
+#        class: Patikang\ThemeBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

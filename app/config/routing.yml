@@ -1,0 +1,12 @@
+patikang_app:
+    resource: "@PatikangAppBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+patikang_theme:
+    resource: "@PatikangThemeBundle/Controller/"
+    type:     annotation
+    prefix:   /theme
+
+
+
